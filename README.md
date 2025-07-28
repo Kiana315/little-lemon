@@ -1,3 +1,12 @@
+# Key Findings / Recommendations / Process
+Built a responsive, accessible booking form using React, Formik, and Yup. Integrated client-side validation and unit tests for a smooth user experience. Ensured semantic HTML and ARIA support.
+
+## Summary
+Implemented a responsive table booking form using React and Formik with client-side validation, accessibility enhancements, and unit testing to improve UX and data integrity.
+
+## Solution
+The form uses Formik and Yup for state and validation management, ensuring users submit only valid data. Semantic HTML and ARIA labels make the app accessible to all users. Unit tests verify form behavior.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
