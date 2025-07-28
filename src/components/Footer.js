@@ -12,7 +12,7 @@ function Footer() {
                 <div className="footer-column">
                     <h4>Doormat Navigation</h4>
                     <ul>
-                        <li><a href="/#hero">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li><a href="/#specials">Specials</a></li>
                         <li><a href="/#about">About</a></li>
                         <li><Link to="/booking">Reservations</Link></li>
