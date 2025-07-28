@@ -24,7 +24,7 @@ function Specials() {
   ];
 
   return (
-    <section className="specials">
+    <section id="specials" className="specials">
       <div className="specials-header">
         <h2>This weeks specials!</h2>
         <button className="button-primary">Online Menu</button>

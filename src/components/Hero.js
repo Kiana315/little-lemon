@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 function Hero() {
   return (
-    <section className="hero">
+    <section id="hero" className="hero">
       <div className="hero-text">
         <h1>Little Lemon</h1>
         <h2>Chicago</h2>

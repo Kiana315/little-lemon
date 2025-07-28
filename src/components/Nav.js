@@ -5,14 +5,12 @@ function Nav() {
   return (
     <nav>
       <ul>
-        <li><Link to="/">Home</Link></li>
-        <li><Link to="/booking">Book a Table</Link></li>
-
-        {/* <li><Link to="/">About</Link></li>
-        <li><Link to="/">Menu</Link></li>
-        <li><Link to="/">Reservations</Link></li>
+        <li><a href="/#hero">Home</a></li>
+        <li><a href="/#specials">Specials</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><Link to="/booking">Reservations</Link></li>
         <li><Link to="/">Order Online</Link></li>
-        <li><Link to="/">Login</Link></li> */}
+        <li><Link to="/">Login</Link></li>
       </ul>
     </nav>
   );

@@ -25,6 +25,9 @@
     transform: rotate(360deg);
   }
 }
+html {
+  scroll-behavior: smooth;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Markazi Text', serif;
@@ -64,6 +67,9 @@ p, span {
   font-size: 18px;
   font-weight: bold;
   font-family: 'Karla', sans-serif;
+}
+.button-primary:hover{
+  background-color: #e6bd00;
 }
 
 .button-primary:active {
