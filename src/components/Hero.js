@@ -16,7 +16,7 @@ function Hero() {
         </Link>
       </div>
       <div className="hero-image">
-        <img src="/images/hero-image.jpg" alt="Delicious Mediterranean dish" />
+        <img src={process.env.PUBLIC_URL + "/images/hero-image.jpg"} alt="Delicious Mediterranean dish" />
       </div>
     </section>
   );
