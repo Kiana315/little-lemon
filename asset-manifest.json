@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/little-lemon/static/css/main.255e897e.css",
-    "main.js": "/little-lemon/static/js/main.022e86b3.js",
+    "main.js": "/little-lemon/static/js/main.fcac46b8.js",
     "index.html": "/little-lemon/index.html",
     "main.255e897e.css.map": "/little-lemon/static/css/main.255e897e.css.map",
-    "main.022e86b3.js.map": "/little-lemon/static/js/main.022e86b3.js.map"
+    "main.fcac46b8.js.map": "/little-lemon/static/js/main.fcac46b8.js.map"
   },
   "entrypoints": [
     "static/css/main.255e897e.css",
-    "static/js/main.022e86b3.js"
+    "static/js/main.fcac46b8.js"
   ]
 }
