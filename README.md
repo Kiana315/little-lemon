@@ -1,4 +1,10 @@
-# Key Findings / Recommendations / Process
+## Project Overview
+
+This is a single-page React application for the Little Lemon restaurant, featuring a homepage, reservation page, and confirmation page. It utilizes React Router, lazy loading, and responsive design.
+
+🔗 [Click here to view the live site](https://kiana315.github.io/little-lemon/)
+
+## Key Findings / Recommendations / Process
 Built a responsive, accessible booking form using React, Formik, and Yup. Integrated client-side validation and unit tests for a smooth user experience. Ensured semantic HTML and ARIA support.
 
 ## Summary
