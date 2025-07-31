@@ -18,8 +18,8 @@ function About() {
       </div>
 
       <div className="about-images">
-        <img src={process.env.PUBLIC_URL + "../images/grill.jpg"} alt="Grilled Mediterranean food" className="about-img bottom-img" />
-        <img src={process.env.PUBLIC_URL + "../images/chef.jpg"} alt="Our chefs at work" className="about-img top-img" />
+        <img loading="lazy"  src={process.env.PUBLIC_URL + "/images/restaurant_chef_A.jpg"} alt="Grilled Mediterranean food" className="about-img bottom-img" />
+        <img loading="lazy"  src={process.env.PUBLIC_URL + "/images/restaurant_chef_B.jpg"} alt="Our chefs at work" className="about-img top-img" />
       </div>
     </section>
   );

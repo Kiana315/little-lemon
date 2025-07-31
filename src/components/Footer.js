@@ -6,7 +6,7 @@ function Footer() {
     <footer>
         <div className="footer-container">
             <div className="footer-logo">
-                <img src={process.env.PUBLIC_URL + "/images/logo-lg.png"} alt="Little Lemon logo" />
+                <img loading="lazy"  src={process.env.PUBLIC_URL + "/images/logo-lg.png"} alt="Little Lemon logo" />
             </div>
             <div className="footer-links">
                 <div className="footer-column">

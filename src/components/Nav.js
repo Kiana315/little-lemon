@@ -5,9 +5,9 @@ function Nav() {
   return (
     <nav>
       <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/#specials">Specials</a></li>
-        <li><a href="/#about">About</a></li>
+        <li><Link to="/">Home</Link></li>
+        <li><Link to="/#specials">Specials</Link></li>
+        <li><Link to="/#about">About</Link></li>
         <li><Link to="/booking">Reservations</Link></li>
         <li><Link to="/">Order Online</Link></li>
         <li><Link to="/">Login</Link></li>
@@ -15,4 +15,5 @@ function Nav() {
     </nav>
   );
 }
+
 export default Nav;
